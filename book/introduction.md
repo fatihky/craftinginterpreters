@@ -537,9 +537,9 @@ herbir kavramı ve herbir kod satırını anlatacağım.
 
 Bu kitabı bir kapı sabitleyiciye dönüştürmeden iki tam implementasyonu sığdırabilmek
 için teorik bilgi benzerlerinden daha hafif tutulmuştur. Sistemin herbir parçasını
-geliştirirken tarihçelerini ve temellerindeki kavramları tanıtacağım. Sizi PD (Programlama Dili) geliştiricileri ile dolu bir
-<span name="party">kokteyl partisinde</span> rahat etmenizi sağlayacak kadar
-bu jargona aşina etmeye çalışacağım.
+geliştirirken tarihçelerini ve temellerindeki kavramları tanıtacağım. Sizi PD (Programlama Dili)
+geliştiricileri ile dolu bir <span name="party">kokteyl partisinde</span> rahat
+etmenizi sağlayacak kadar bu jargona aşina etmeye çalışacağım.
 
 <aside name="party">
 
