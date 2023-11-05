@@ -1,3 +1,5 @@
+<!--
+
 This may be the beginning of a grand adventure. Programming languages encompass
 a huge space to explore and play in. Plenty of room for your own creations to
 share with others or just enjoy yourself. Brilliant computer scientists and
@@ -12,3 +14,6 @@ are organized.
 
 We will also get acquainted with Lox, the language we'll spend the rest of the
 book implementing (twice).
+
+-->
+<!-- The Turkish translation below -->
