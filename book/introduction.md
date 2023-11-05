@@ -526,7 +526,7 @@ dillerine başlarken sahip olmayı dilediğim ve yaklaşık on yıldır <span>ka
 
 <aside name="head">
 
-Arkadaşlarıma ve aileme, sizleri ihmal ettiğim için özür dilerim!
+Arkadaşlarıma ve aileme: sizleri ihmal ettiğim için özür dilerim!
 
 </aside>
 
