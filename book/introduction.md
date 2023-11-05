@@ -1,3 +1,4 @@
+<!--
 > Fairy tales are more than true: not because they tell us that dragons exist,
 > but because they tell us that dragons can be beaten.
 >
@@ -509,3 +510,54 @@ anything, it's that the name doesn't matter much. All you need is a reasonably
 unique token.
 
 </div>
+
+-->
+<!-- The Turkish translation below -->
+
+> Efsaneler gerçekten ötedir: ejderhaların varolduklarını anlattıkları için değil,
+> ejderhaların yenilebileceklerini anlattıkları için.
+>
+> <cite>G.K. Chesterton by way of Neil Gaiman, <em>Coraline</em></cite>
+
+Bu yolculuğa birlikte çıkacağımız için gerçekten çok heyecanlıyım. Bu kitap,
+programlama dilleri için yorumlayıcı geliştirme üzerine bir kitap. Aynı
+zamanda da geliştirmeye değer bir dil hakkında. Bu kitap, aynı zamanda, programlama
+dillerine başlarken sahip olmayı dilediğim ve yaklaşık on yıldır <span>kafamda</span> kurguladığım bir kitap.
+
+<aside name="head">
+
+Arkadaşlarıma ve aileme, sizleri ihmal ettiğim için özür dilerim!
+
+</aside>
+
+Bu sayfalarda, adım adım giderek iki tane yorumlayıcı ve tam-özellikli bir
+programlama dili geliştireceğiz. Programlama dili geliştirmeyle ilk tanışmanız
+olduğunu varsayarak; tam, kullanılabilir ve hızlı bir dil geliştirmek için gereken
+herbir kavramı ve herbir kod satırını anlatacağım.
+
+Bu kitabı bir kapı sabitleyiciye dönüştürmeden iki tam implementasyonu sığdırabilmek
+için teorik bilgi benzerlerinden daha hafif tutulmuştur. Sistemin herbir parçasını
+geliştirirken tarihçelerini ve temellerindeki kavramları tanıtacağım. Sizi PD (Programlama Dili) geliştiricileri ile dolu bir
+<span name="party">kokteyl partisinde</span> rahat etmenizi sağlayacak kadar
+bu jargona aşina etmeye çalışacağım.
+
+<aside name="party">
+
+Garip bir şekilde, birkaç kez kendimi içinde bulduğum durum. Bazılarının ne kadar çok
+içebildiğine inanamazsınız.
+
+</aside>
+
+But we're mostly going to spend our brain juice getting the language up and
+running. This is not to say theory isn't important. Being able to reason
+precisely and <span name="formal">formally</span> about syntax and semantics is
+a vital skill when working on a language. But, personally, I learn best by
+doing. It's hard for me to wade through paragraphs full of abstract concepts and
+really absorb them. But if I've coded something, run it, and debugged it, then I
+_get_ it.
+
+Ancak biz çoğunlukla çabamızı programlama dilimizi ayağa kaldırmaya ve çalıştırmaya harcayacağız. Bu, teorik bilgi önemsizdir, demek değil. Ayrıntılı ve <span name="formal">resmi</span> bir şekilde yazım biçimi ve anlamsallık hakkında görüş bildirebilmek, bir programlama dili ile çalışırken yaşamsal öneme sahiptir. Ancak,
+kişisel olarak, ben en iyi uygulayarak öğreniyorum. Soyut kavramlarla dolu
+paragraflarda gezinip onları gerçek anlamda özümsemek, benim için gerçekten zor.
+Ama eğer ben bir şeyi kodlarsam, çalıştırırsam, hatalarını ayıklarsam, o zaman
+_anlıyorum_.
