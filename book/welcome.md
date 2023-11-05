@@ -17,3 +17,16 @@ book implementing (twice).
 
 -->
 <!-- The Turkish translation below -->
+
+Bu, büyük bir maceranın başlangıcı olabilir. Programlama dilleri, uğraşılabilecek
+oldukça geniş bir alana sahiptirler. Birçok parlak bilgisayar bilimci ve yazılım
+mühendisi bütün kariyerlerini bu alanda geçirmiş ve bu alanın sonuna gelememiştir.
+Eğer bu kitap sizin bu diyara ilk adımınızsa, hoş geldiniz.
+
+Bu kitabın sayfaları size programlama dillerinin dünyasının bir kısmındaki gezinti
+için rehberlik edecektir. Yürüyüş ayakkabılarımızı giyip keşfe çıkmadan önce
+araziye aşinalık kazanmalıyız. Bu bölümdeki başlıklar programlama dillerinde kullanılan
+temel kavramların nasıl kullanıldığını ve organize edildiğini anlatmaktadır.
+
+Ayrıca, kitabın geri kalanında geliştirmekle uğraşacağımız (iki kez) Lox hakkında da
+bilgi sahibi olacağız.

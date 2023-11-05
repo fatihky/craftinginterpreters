@@ -1,0 +1,6 @@
+This file contains the choosen Turkish equivalents of the given words, idioms etc.
+
+----
+
+Chapter: Başlık
+Part (Book): Bölüm
