@@ -556,3 +556,49 @@ hakkında görüş bildirebilmek, bir programlama dili ile çalışırken yaşam
 kavramlarla dolu paragraflarda gezinip onları gerçek anlamda özümsemek, benim
 için gerçekten zor. Ama eğer ben bir şeyi kodlarsam, çalıştırırsam, hatalarını
 ayıklarsam, o zaman _anlıyorum_.
+
+<aside name="formal">
+
+Statik tip sistemleri, özellikle, oldukça titiz ve düzgün hazırlanmış temellendirme
+gerektirir. Bir tip sisteminde değişiklik yapmak, matematikte bir teoremi
+kanıtlamakla aynı hissi uyandırır.
+
+Bu bir rastlantı değildir. Geçen yüzyılın ilk yarısında, Haskell Curry ve William
+Alvin Howard madalyonun iki farklı yüzü olduklarını ortaya koydular (bkz: [the Curry-Howard isomorphism][]).
+
+[the curry-howard isomorphism]: https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence
+
+</aside>
+
+Sizin için de hedeflediğim de bu. Size gerçek bir dilin nasıl yaşadığı ve nasıl
+nefes aldığıyla ilgili katı bilgilerden ayrı şeylerle gelmek istiyorum. Umuyorum ki
+diğer daha teorik olan kitapları okuduğunuzda, oradaki kavramlar sağlam bir şekilde
+beyninizde yerleşmiş olacak.
+
+## Neden Bunları Öğrenmeli?
+
+Herbir derleyici kitabının herbir giriş bölümü bu başlığı bulunduruyor. Programlama
+dillerinin neden böyle bir varoluş kuşkusuna düşürdüğünü bilmiyorum. Kuş bilimi
+kitaplarının kendi varlıklarının nedenlerini açıklamayı dert edindiğini
+düşünmüyorum. Okuyucularının kuşları sevdiğini varsayıyorlar ve anlatmaya
+başlıyorlar.
+
+Ancak programlama dilleri biraz daha ayrı. Bence, genel olarak başarılı, genel
+kullanıma uygun, bir dil geliştirme olasılığımız oldukça düşük. Dünyanın geniş
+kitlelerce kullanılan programlama dillerinin tasarımcıları bir Volkswagen minibüsüne
+-çatı genişletme aparatını dahi kullanmadan- sığdırılabilir. Eğer bu seçkin öbeği
+programlama dili öğrenmek için **tek** neden olarak ele alırsak, çalışmalarımızı
+gerekçelendirmemiz zorlaşır. Neyseki tek neden o değil.
+
+### Ufak programlama dilleri her yerde
+
+Genel kullanıma yönelik ve başarılı herbir programlama diline karşılık, binlerce
+küçük bir alanda özelleşmiş programlama dili bulunur. Onları "ufak programlama
+dilleri" olarak adlandırıyorduk, ancak jargon ekonomisindeki enflasyonun sonucu
+olarak kendilerini "alana özel programlama dilleri" (İngilizce:
+domain-specific language) adlandırır olduk. Bunlar belirli birer görevi
+gerçekleştirmek üzere geliştirilmiş karma dillerdir. Uygulama betik dilleri,
+taslak motorları, biçimlendirme formatları ve ayar dosyaları örnek olarak
+verilebilir.
+
+<span name="little"></span><img src="image/introduction/little-languages.png" alt="Ufak programlama dillerinden rastgele bir seçki." />

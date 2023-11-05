@@ -41,6 +41,7 @@
     <li><a href="#how-the-book-is-organized"><small>1.2</small> How the Book Is Organized</a></li>
     <li><a href="#the-first-interpreter"><small>1.3</small> The First Interpreter</a></li>
     <li><a href="#the-second-interpreter"><small>1.4</small> The Second Interpreter</a></li>
+    <li><a href="#neden-bunları-öğrenmeli"><small>1.7</small> Neden Bunları Öğrenmeli?</a></li>
     <li class="divider"></li>
     <li class="end-part"><a href="#challenges">Challenges</a></li>
     <li class="end-part"><a href="#design-note"><small>note</small>What&#x27;s in a Name?</a></li>
@@ -72,6 +73,7 @@
     <li><a href="#how-the-book-is-organized"><small>1.2</small> How the Book Is Organized</a></li>
     <li><a href="#the-first-interpreter"><small>1.3</small> The First Interpreter</a></li>
     <li><a href="#the-second-interpreter"><small>1.4</small> The Second Interpreter</a></li>
+    <li><a href="#neden-bunları-öğrenmeli"><small>1.7</small> Neden Bunları Öğrenmeli?</a></li>
     <li class="divider"></li>
     <li class="end-part"><a href="#challenges">Challenges</a></li>
     <li class="end-part"><a href="#design-note"><small>note</small>What&#x27;s in a Name?</a></li>
@@ -639,6 +641,39 @@ hakkında görüş bildirebilmek, bir programlama dili ile çalışırken yaşam
 kavramlarla dolu paragraflarda gezinip onları gerçek anlamda özümsemek, benim
 için gerçekten zor. Ama eğer ben bir şeyi kodlarsam, çalıştırırsam, hatalarını
 ayıklarsam, o zaman <em>anlıyorum</em>.</p>
+<aside name="formal">
+<p>Statik tip sistemleri, özellikle, oldukça titiz ve düzgün hazırlanmış temellendirme
+gerektirir. Bir tip sisteminde değişiklik yapmak, matematikte bir teoremi
+kanıtlamakla aynı hissi uyandırır.</p>
+<p>Bu bir rastlantı değildir. Geçen yüzyılın ilk yarısında, Haskell Curry ve William
+Alvin Howard madalyonun iki farklı yüzü olduklarını ortaya koydular (bkz: <a href="https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence">the Curry-Howard isomorphism</a>).</p>
+</aside>
+<p>Sizin için de hedeflediğim de bu. Size gerçek bir dilin nasıl yaşadığı ve nasıl
+nefes aldığıyla ilgili katı bilgilerden ayrı şeylerle gelmek istiyorum. Umuyorum ki
+diğer daha teorik olan kitapları okuduğunuzda, oradaki kavramlar sağlam bir şekilde
+beyninizde yerleşmiş olacak.</p>
+<h2><a href="#neden-bunları-öğrenmeli" id="neden-bunları-öğrenmeli"><small>1&#8202;.&#8202;7</small>Neden Bunları Öğrenmeli?</a></h2>
+<p>Herbir derleyici kitabının herbir giriş bölümü bu başlığı bulunduruyor. Programlama
+dillerinin neden böyle bir varoluş kuşkusuna düşürdüğünü bilmiyorum. Kuş bilimi
+kitaplarının kendi varlıklarının nedenlerini açıklamayı dert edindiğini
+düşünmüyorum. Okuyucularının kuşları sevdiğini varsayıyorlar ve anlatmaya
+başlıyorlar.</p>
+<p>Ancak programlama dilleri biraz daha ayrı. Bence, genel olarak başarılı, genel
+kullanıma uygun, bir dil geliştirme olasılığımız oldukça düşük. Dünyanın geniş
+kitlelerce kullanılan programlama dillerinin tasarımcıları bir Volkswagen minibüsüne
+-çatı genişletme aparatını dahi kullanmadan- sığdırılabilir. Eğer bu seçkin öbeği
+programlama dili öğrenmek için <strong>tek</strong> neden olarak ele alırsak, çalışmalarımızı
+gerekçelendirmemiz zorlaşır. Neyseki tek neden o değil.</p>
+<h3><a href="#ufak-programlama-dilleri-her-yerde" id="ufak-programlama-dilleri-her-yerde"><small>1&#8202;.&#8202;7&#8202;.&#8202;1</small>Ufak programlama dilleri her yerde</a></h3>
+<p>Genel kullanıma yönelik ve başarılı herbir programlama diline karşılık, binlerce
+küçük bir alanda özelleşmiş programlama dili bulunur. Onları &ldquo;ufak programlama
+dilleri&rdquo; olarak adlandırıyorduk, ancak jargon ekonomisindeki enflasyonun sonucu
+olarak kendilerini &ldquo;alana özel programlama dilleri&rdquo; (İngilizce:
+domain-specific language) adlandırır olduk. Bunlar belirli birer görevi
+gerçekleştirmek üzere geliştirilmiş karma dillerdir. Uygulama betik dilleri,
+taslak motorları, biçimlendirme formatları ve ayar dosyaları örnek olarak
+verilebilir.</p>
+<p><span name="little"></span><img src="image/introduction/little-languages.png" alt="Ufak programlama dillerinden rastgele bir seçki." /></p>
 
 <footer>
 <a href="a-map-of-the-territory.html" class="next">
