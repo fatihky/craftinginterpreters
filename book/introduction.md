@@ -548,16 +548,11 @@ içebildiğine inanamazsınız.
 
 </aside>
 
-But we're mostly going to spend our brain juice getting the language up and
-running. This is not to say theory isn't important. Being able to reason
-precisely and <span name="formal">formally</span> about syntax and semantics is
-a vital skill when working on a language. But, personally, I learn best by
-doing. It's hard for me to wade through paragraphs full of abstract concepts and
-really absorb them. But if I've coded something, run it, and debugged it, then I
-_get_ it.
-
-Ancak biz çoğunlukla çabamızı programlama dilimizi ayağa kaldırmaya ve çalıştırmaya harcayacağız. Bu, teorik bilgi önemsizdir, demek değil. Ayrıntılı ve <span name="formal">resmi</span> bir şekilde yazım biçimi ve anlamsallık hakkında görüş bildirebilmek, bir programlama dili ile çalışırken yaşamsal öneme sahiptir. Ancak,
-kişisel olarak, ben en iyi uygulayarak öğreniyorum. Soyut kavramlarla dolu
-paragraflarda gezinip onları gerçek anlamda özümsemek, benim için gerçekten zor.
-Ama eğer ben bir şeyi kodlarsam, çalıştırırsam, hatalarını ayıklarsam, o zaman
-_anlıyorum_.
+Ancak biz çoğunlukla çabamızı programlama dilimizi ayağa kaldırmaya ve
+çalıştırmaya harcayacağız. Bu, teorik bilgi önemsizdir, demek değil. Ayrıntılı
+ve <span name="formal">resmi</span> bir şekilde yazım biçimi ve anlamsallık
+hakkında görüş bildirebilmek, bir programlama dili ile çalışırken yaşamsal
+öneme sahiptir. Ancak, kişisel olarak, ben en iyi uygulayarak öğreniyorum. Soyut
+kavramlarla dolu paragraflarda gezinip onları gerçek anlamda özümsemek, benim
+için gerçekten zor. Ama eğer ben bir şeyi kodlarsam, çalıştırırsam, hatalarını
+ayıklarsam, o zaman _anlıyorum_.
