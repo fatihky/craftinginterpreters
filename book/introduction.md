@@ -570,10 +570,10 @@ Alvin Howard madalyonun iki farklı yüzü olduklarını ortaya koydular (bkz: [
 
 </aside>
 
-Sizin için de hedeflediğim de bu. Size gerçek bir dilin nasıl yaşadığı ve nasıl
-nefes aldığıyla ilgili katı bilgilerden ayrı şeylerle gelmek istiyorum. Umuyorum ki
-diğer daha teorik olan kitapları okuduğunuzda, oradaki kavramlar sağlam bir şekilde
-beyninizde yerleşmiş olacak.
+Sizin için de hedeflediğim de bu. Size gerçek bir dilin nasıl yaşayıp nefes
+aldığına dair sağlam sezgiler kazandırmak istiyorum. Diğer daha teorik olan
+kitapları okuduğunuzda bu güçlü altyapınız sayesinde orada değinilen kavramların
+beyninizde sağlam bir yer edeceğini umuyorum.
 
 ## Neden Bunları Öğrenmeli?
 
@@ -602,3 +602,9 @@ taslak motorları, biçimlendirme formatları ve ayar dosyaları örnek olarak
 verilebilir.
 
 <span name="little"></span><img src="image/introduction/little-languages.png" alt="Ufak programlama dillerinden rastgele bir seçki." />
+
+<aside name="little">
+
+İşinizin düşebileceği
+
+</aside>
