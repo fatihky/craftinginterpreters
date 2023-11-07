@@ -602,9 +602,3 @@ taslak motorları, biçimlendirme formatları ve ayar dosyaları örnek olarak
 verilebilir.
 
 <span name="little"></span><img src="image/introduction/little-languages.png" alt="Ufak programlama dillerinden rastgele bir seçki." />
-
-<aside name="little">
-
-İşinizin düşebileceği
-
-</aside>
