@@ -602,3 +602,32 @@ taslak motorları, biçimlendirme formatları ve ayar dosyaları örnek olarak
 verilebilir.
 
 <span name="little"></span><img src="image/introduction/little-languages.png" alt="Ufak programlama dillerinden rastgele bir seçki." />
+
+<aside name="little">
+
+Karşınıza çıkabilecek ufak programlama dillerinden rastgele bir seçki.
+
+</aside>
+
+Hemen her büyük yazılım bunlardan birkaçına gereksinim duyar. Yapabiliyorsanız,
+kendinizinkini yazmak yerine bunlardan birini kullanmak iyidir. Dökümantasyonu, hata ayıklayıcıları, editör desteğini, yazım renklendirmeyi ve diğer bütün
+işleri işin içine kattığınızda, kendinizinkini yazmak çok daha zor hale gelir.
+
+Ancak ayrıştırıcı (parser) ve benzeri araçların kütüphanelerinin ihtiyaçlarınıza
+tam karşılık vermemesi ve kendinizinkini yazmak istemeniz olasıdır. Hazırdaki
+araçları kullanıyor olsanız dahi hata ayıklamaya çalışmanız ve iç yapısını
+kurcalamanız kaçınılmazdır.
+
+### Programlama dilleri harika alıştırmalardır
+
+Uzun mesafe koşucuları zaman zaman ayak bileklerine ağırlık bağlayarak ya da yüksek
+rakımlı, yani atmosferin ince olduğu bölgelerde çalışırlar. Bu yükten kurtulduktan
+sonra, hafiflemiş bacakları ve oksijen bakımından zengin hava, daha uzağa
+ve daha hızlı koşmalarını sağlar.
+
+Bir programlama dili geliştirme, gerçek bir programlama yeteneği sınavıdır. Kodu
+karmaşıktır ve kodların verimi çok önemlidir. Özyineleme, dinamik diziler, ağaç
+yapıları, graflar ve hash tablolarında uzmanlaşmanız gerekir. Büyük olasılıkla
+hash tablolarını en azından günlük programlama işlerinizde kullanıyorsunuz ama
+onları **tam olarak** anlıyor musunuz? Peki, sıfırdan kendimizinkini yazdığımızda
+anlayacağınızı garanti ediyorum.

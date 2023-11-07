@@ -3,4 +3,5 @@ This file contains the choosen Turkish equivalents of the given words, idioms et
 ----
 
 Chapter: Başlık
+Parser: Ayrıştırıcı
 Part (Book): Bölüm
